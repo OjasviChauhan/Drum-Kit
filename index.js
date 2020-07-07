@@ -46,7 +46,7 @@ function makeSound(key) {
       break;
 
     case "k":
-        var crash = new Audio("Sounds/crash.mp3");
+        var crash = new Audio("sounds/crash.mp3");
         crash.play();
       break;
 
